@@ -1,13 +1,24 @@
 const projects =[
     {
-        'title':'Tools',
-        'icon' : 'images/tools.png',
-        'name':'Spring Generator',
-        'link': 'https://mfjamil.github.io/smyld-web/tools/build/spring_generator/',
+        'title':'Beginner',
+        'icon' : 'images/mario_icon.png',
+        'name':'Simple Mario Game',
+        'link': 'https://mfjamil.github.io/smyld-games/mario1/index.html',
         'text': 'For developers who needs to create a maven based full stack project that holds Spring Boot as a back-end and one of the frameworks (Angular,Vue or React) as a front-end',
         'x'   : '10%',
-        'y'   : '20%'
+        'y'   : '40%'
     },
+    {
+        'title': 'Beta Demo',
+        'icon' : 'images/diagram.png',
+        'name' : 'Reboot',
+        'link': 'https://mfjamil.github.io/smyld-games/reboot/index.html',
+        'text' : 'Java Swing Component that holds a full animated and funcitional entity diagram like flow charts and can be extended to plot UML diagrams',
+        'x'   : '70%',
+        'y'   : '40%'
+
+    },
+    /*
     {
         'title': 'Templates',
         'icon' : 'images/angular_32.png',
@@ -29,16 +40,6 @@ const projects =[
 
     },
     {
-        'title': 'Graphics',
-        'icon' : 'images/diagram.png',
-        'name' : 'Entity Plotter',
-        'link' : 'https://mfjamil.github.io/smyld-java/apps/ep',
-        'text' : 'Java Swing Component that holds a full animated and funcitional entity diagram like flow charts and can be extended to plot UML diagrams',
-        'x'   : '70%',
-        'y'   : '20%'
-
-    },
-    {
         'title': 'Libraries',
         'icon' : 'images/library.jpg',
         'name' : 'JS/TS Core',
@@ -57,7 +58,7 @@ const projects =[
         'x'   : '0%',
         'y'   : '60%'
 
-    }
+    }*/
     ];
 
     var app = new Vue({
