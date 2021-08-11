@@ -4,7 +4,7 @@ const projects =[
         'icon' : 'images/mario_icon.png',
         'name':'Simple Mario Game',
         'link': 'https://mfjamil.github.io/smyld-games/mario1/index.html',
-        'text': 'For developers who needs to create a maven based full stack project that holds Spring Boot as a back-end and one of the frameworks (Angular,Vue or React) as a front-end',
+        'text': 'A tutorial based Simple game developed on Unity for learning purpose',
         'x'   : '10%',
         'y'   : '40%'
     },
@@ -13,7 +13,7 @@ const projects =[
         'icon' : 'images/diagram.png',
         'name' : 'Reboot',
         'link': 'https://mfjamil.github.io/smyld-games/reboot/index.html',
-        'text' : 'Java Swing Component that holds a full animated and funcitional entity diagram like flow charts and can be extended to plot UML diagrams',
+        'text' : 'Game developed by Sarmad Jamil, participated in several competations, still in Demo stage',
         'x'   : '70%',
         'y'   : '40%'
 
