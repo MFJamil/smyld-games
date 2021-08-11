@@ -10,7 +10,7 @@ const projects =[
     },
     {
         'title': 'Beta Demo',
-        'icon' : 'images/diagram.png',
+        'icon' : 'images/reboot_icon.png',
         'name' : 'Reboot',
         'link': 'https://mfjamil.github.io/smyld-games/reboot/index.html',
         'text' : 'Game developed by Sarmad Jamil, participated in several competations, still in Demo stage',
