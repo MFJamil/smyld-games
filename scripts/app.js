@@ -13,7 +13,7 @@ const projects =[
         'icon' : 'images/reboot_icon.png',
         'name' : 'Reboot',
         'link': 'https://mfjamil.github.io/smyld-games/reboot/index.html',
-        'text' : 'Game developed by Sarmad Jamil, participated in several competations, still in Demo stage',
+        'text' : 'Game developed by Sarmad Jamil and Maxim P., participated in several competations, still in Demo stage',
         'x'   : '70%',
         'y'   : '40%'
 
